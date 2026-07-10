@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0424-longest-repeating-character-replacement](https://github.com/Shashwat37/Leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [0451-sort-characters-by-frequency](https://github.com/Shashwat37/Leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Shashwat37/Leetcode/tree/master/1248-count-number-of-nice-subarrays) |
+| [1781-sum-of-beauty-of-all-substrings](https://github.com/Shashwat37/Leetcode/tree/master/1781-sum-of-beauty-of-all-substrings) |
 ## Sorting
 |  |
 | ------- |
@@ -74,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0169-majority-element](https://github.com/Shashwat37/Leetcode/tree/master/0169-majority-element) |
 | [0451-sort-characters-by-frequency](https://github.com/Shashwat37/Leetcode/tree/master/0451-sort-characters-by-frequency) |
+| [1781-sum-of-beauty-of-all-substrings](https://github.com/Shashwat37/Leetcode/tree/master/1781-sum-of-beauty-of-all-substrings) |
 ## Simulation
 |  |
 | ------- |
@@ -129,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/Shashwat37/Leetcode/tree/master/0242-valid-anagram) |
 | [0424-longest-repeating-character-replacement](https://github.com/Shashwat37/Leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [0451-sort-characters-by-frequency](https://github.com/Shashwat37/Leetcode/tree/master/0451-sort-characters-by-frequency) |
+| [1781-sum-of-beauty-of-all-substrings](https://github.com/Shashwat37/Leetcode/tree/master/1781-sum-of-beauty-of-all-substrings) |
 ## Sliding Window
 |  |
 | ------- |
