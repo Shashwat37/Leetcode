@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/Shashwat37/Leetcode/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/Shashwat37/Leetcode/tree/master/0018-4sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Shashwat37/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0040-combination-sum-ii](https://github.com/Shashwat37/Leetcode/tree/master/0040-combination-sum-ii) |
 | [0075-sort-colors](https://github.com/Shashwat37/Leetcode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Shashwat37/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0118-pascals-triangle](https://github.com/Shashwat37/Leetcode/tree/master/0118-pascals-triangle) |
@@ -158,4 +159,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/Shashwat37/Leetcode/tree/master/0050-powx-n) |
+## Backtracking
+|  |
+| ------- |
+| [0040-combination-sum-ii](https://github.com/Shashwat37/Leetcode/tree/master/0040-combination-sum-ii) |
 <!---LeetCode Topics End-->
