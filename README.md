@@ -149,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/Shashwat37/Leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0079-word-search](https://github.com/Shashwat37/Leetcode/tree/master/0079-word-search) |
 | [0242-valid-anagram](https://github.com/Shashwat37/Leetcode/tree/master/0242-valid-anagram) |
+| [0282-expression-add-operators](https://github.com/Shashwat37/Leetcode/tree/master/0282-expression-add-operators) |
 | [0424-longest-repeating-character-replacement](https://github.com/Shashwat37/Leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [0451-sort-characters-by-frequency](https://github.com/Shashwat37/Leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [0678-valid-parenthesis-string](https://github.com/Shashwat37/Leetcode/tree/master/0678-valid-parenthesis-string) |
@@ -173,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/Shashwat37/Leetcode/tree/master/0050-powx-n) |
+| [0282-expression-add-operators](https://github.com/Shashwat37/Leetcode/tree/master/0282-expression-add-operators) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Shashwat37/Leetcode/tree/master/1248-count-number-of-nice-subarrays) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Shashwat37/Leetcode/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Recursion
@@ -186,6 +188,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0040-combination-sum-ii](https://github.com/Shashwat37/Leetcode/tree/master/0040-combination-sum-ii) |
 | [0079-word-search](https://github.com/Shashwat37/Leetcode/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/Shashwat37/Leetcode/tree/master/0090-subsets-ii) |
+| [0282-expression-add-operators](https://github.com/Shashwat37/Leetcode/tree/master/0282-expression-add-operators) |
 ## Stack
 |  |
 | ------- |
