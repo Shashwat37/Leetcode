@@ -172,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0050-powx-n](https://github.com/Shashwat37/Leetcode/tree/master/0050-powx-n) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Shashwat37/Leetcode/tree/master/1248-count-number-of-nice-subarrays) |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/Shashwat37/Leetcode/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Recursion
 |  |
 | ------- |
@@ -194,4 +195,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0079-word-search](https://github.com/Shashwat37/Leetcode/tree/master/0079-word-search) |
+## Number Theory
+|  |
+| ------- |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/Shashwat37/Leetcode/tree/master/3658-gcd-of-odd-and-even-sums) |
 <!---LeetCode Topics End-->
