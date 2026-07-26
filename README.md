@@ -167,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/Shashwat37/Leetcode/tree/master/0012-integer-to-roman) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Shashwat37/Leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0032-longest-valid-parentheses](https://github.com/Shashwat37/Leetcode/tree/master/0032-longest-valid-parentheses) |
+| [0058-length-of-last-word](https://github.com/Shashwat37/Leetcode/tree/master/0058-length-of-last-word) |
 | [0072-edit-distance](https://github.com/Shashwat37/Leetcode/tree/master/0072-edit-distance) |
 | [0079-word-search](https://github.com/Shashwat37/Leetcode/tree/master/0079-word-search) |
 | [0242-valid-anagram](https://github.com/Shashwat37/Leetcode/tree/master/0242-valid-anagram) |
