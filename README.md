@@ -237,6 +237,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0079-word-search](https://github.com/Shashwat37/Leetcode/tree/master/0079-word-search) |
+| [0112-path-sum](https://github.com/Shashwat37/Leetcode/tree/master/0112-path-sum) |
 ## Matrix
 |  |
 | ------- |
@@ -269,4 +270,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/Shashwat37/Leetcode/tree/master/0084-largest-rectangle-in-histogram) |
+## Tree
+|  |
+| ------- |
+| [0112-path-sum](https://github.com/Shashwat37/Leetcode/tree/master/0112-path-sum) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0112-path-sum](https://github.com/Shashwat37/Leetcode/tree/master/0112-path-sum) |
+## Binary Tree
+|  |
+| ------- |
+| [0112-path-sum](https://github.com/Shashwat37/Leetcode/tree/master/0112-path-sum) |
 <!---LeetCode Topics End-->
