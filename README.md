@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0029-divide-two-integers](https://github.com/Shashwat37/Leetcode/tree/master/0029-divide-two-integers) |
+| [0067-add-binary](https://github.com/Shashwat37/Leetcode/tree/master/0067-add-binary) |
 | [0078-subsets](https://github.com/Shashwat37/Leetcode/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/Shashwat37/Leetcode/tree/master/0090-subsets-ii) |
 | [0136-single-number](https://github.com/Shashwat37/Leetcode/tree/master/0136-single-number) |
@@ -104,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/Shashwat37/Leetcode/tree/master/0067-add-binary) |
 | [0258-add-digits](https://github.com/Shashwat37/Leetcode/tree/master/0258-add-digits) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Shashwat37/Leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Dynamic Programming
@@ -173,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Shashwat37/Leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0032-longest-valid-parentheses](https://github.com/Shashwat37/Leetcode/tree/master/0032-longest-valid-parentheses) |
 | [0058-length-of-last-word](https://github.com/Shashwat37/Leetcode/tree/master/0058-length-of-last-word) |
+| [0067-add-binary](https://github.com/Shashwat37/Leetcode/tree/master/0067-add-binary) |
 | [0071-simplify-path](https://github.com/Shashwat37/Leetcode/tree/master/0071-simplify-path) |
 | [0072-edit-distance](https://github.com/Shashwat37/Leetcode/tree/master/0072-edit-distance) |
 | [0079-word-search](https://github.com/Shashwat37/Leetcode/tree/master/0079-word-search) |
@@ -207,6 +210,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/Shashwat37/Leetcode/tree/master/0012-integer-to-roman) |
 | [0029-divide-two-integers](https://github.com/Shashwat37/Leetcode/tree/master/0029-divide-two-integers) |
 | [0050-powx-n](https://github.com/Shashwat37/Leetcode/tree/master/0050-powx-n) |
+| [0067-add-binary](https://github.com/Shashwat37/Leetcode/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/Shashwat37/Leetcode/tree/master/0069-sqrtx) |
 | [0258-add-digits](https://github.com/Shashwat37/Leetcode/tree/master/0258-add-digits) |
 | [0282-expression-add-operators](https://github.com/Shashwat37/Leetcode/tree/master/0282-expression-add-operators) |
