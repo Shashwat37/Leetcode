@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/Shashwat37/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0090-subsets-ii](https://github.com/Shashwat37/Leetcode/tree/master/0090-subsets-ii) |
 | [0118-pascals-triangle](https://github.com/Shashwat37/Leetcode/tree/master/0118-pascals-triangle) |
+| [0120-triangle](https://github.com/Shashwat37/Leetcode/tree/master/0120-triangle) |
 | [0136-single-number](https://github.com/Shashwat37/Leetcode/tree/master/0136-single-number) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Shashwat37/Leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0169-majority-element](https://github.com/Shashwat37/Leetcode/tree/master/0169-majority-element) |
@@ -123,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0072-edit-distance](https://github.com/Shashwat37/Leetcode/tree/master/0072-edit-distance) |
 | [0097-interleaving-string](https://github.com/Shashwat37/Leetcode/tree/master/0097-interleaving-string) |
 | [0118-pascals-triangle](https://github.com/Shashwat37/Leetcode/tree/master/0118-pascals-triangle) |
+| [0120-triangle](https://github.com/Shashwat37/Leetcode/tree/master/0120-triangle) |
 | [0410-split-array-largest-sum](https://github.com/Shashwat37/Leetcode/tree/master/0410-split-array-largest-sum) |
 | [0678-valid-parenthesis-string](https://github.com/Shashwat37/Leetcode/tree/master/0678-valid-parenthesis-string) |
 | [0808-soup-servings](https://github.com/Shashwat37/Leetcode/tree/master/0808-soup-servings) |
