@@ -238,6 +238,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/Shashwat37/Leetcode/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/Shashwat37/Leetcode/tree/master/0069-sqrtx) |
 | [0168-excel-sheet-column-title](https://github.com/Shashwat37/Leetcode/tree/master/0168-excel-sheet-column-title) |
+| [0223-rectangle-area](https://github.com/Shashwat37/Leetcode/tree/master/0223-rectangle-area) |
 | [0224-basic-calculator](https://github.com/Shashwat37/Leetcode/tree/master/0224-basic-calculator) |
 | [0258-add-digits](https://github.com/Shashwat37/Leetcode/tree/master/0258-add-digits) |
 | [0282-expression-add-operators](https://github.com/Shashwat37/Leetcode/tree/master/0282-expression-add-operators) |
@@ -354,4 +355,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/Shashwat37/Leetcode/tree/master/0200-number-of-islands) |
+## Geometry
+|  |
+| ------- |
+| [0223-rectangle-area](https://github.com/Shashwat37/Leetcode/tree/master/0223-rectangle-area) |
 <!---LeetCode Topics End-->
