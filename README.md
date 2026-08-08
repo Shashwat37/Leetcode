@@ -138,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0120-triangle](https://github.com/Shashwat37/Leetcode/tree/master/0120-triangle) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Shashwat37/Leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0131-palindrome-partitioning](https://github.com/Shashwat37/Leetcode/tree/master/0131-palindrome-partitioning) |
+| [0241-different-ways-to-add-parentheses](https://github.com/Shashwat37/Leetcode/tree/master/0241-different-ways-to-add-parentheses) |
 | [0343-integer-break](https://github.com/Shashwat37/Leetcode/tree/master/0343-integer-break) |
 | [0410-split-array-largest-sum](https://github.com/Shashwat37/Leetcode/tree/master/0410-split-array-largest-sum) |
 | [0678-valid-parenthesis-string](https://github.com/Shashwat37/Leetcode/tree/master/0678-valid-parenthesis-string) |
@@ -212,6 +213,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0168-excel-sheet-column-title](https://github.com/Shashwat37/Leetcode/tree/master/0168-excel-sheet-column-title) |
 | [0214-shortest-palindrome](https://github.com/Shashwat37/Leetcode/tree/master/0214-shortest-palindrome) |
 | [0224-basic-calculator](https://github.com/Shashwat37/Leetcode/tree/master/0224-basic-calculator) |
+| [0241-different-ways-to-add-parentheses](https://github.com/Shashwat37/Leetcode/tree/master/0241-different-ways-to-add-parentheses) |
 | [0242-valid-anagram](https://github.com/Shashwat37/Leetcode/tree/master/0242-valid-anagram) |
 | [0282-expression-add-operators](https://github.com/Shashwat37/Leetcode/tree/master/0282-expression-add-operators) |
 | [0387-first-unique-character-in-a-string](https://github.com/Shashwat37/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
@@ -255,6 +257,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0168-excel-sheet-column-title](https://github.com/Shashwat37/Leetcode/tree/master/0168-excel-sheet-column-title) |
 | [0223-rectangle-area](https://github.com/Shashwat37/Leetcode/tree/master/0223-rectangle-area) |
 | [0224-basic-calculator](https://github.com/Shashwat37/Leetcode/tree/master/0224-basic-calculator) |
+| [0241-different-ways-to-add-parentheses](https://github.com/Shashwat37/Leetcode/tree/master/0241-different-ways-to-add-parentheses) |
 | [0258-add-digits](https://github.com/Shashwat37/Leetcode/tree/master/0258-add-digits) |
 | [0282-expression-add-operators](https://github.com/Shashwat37/Leetcode/tree/master/0282-expression-add-operators) |
 | [0343-integer-break](https://github.com/Shashwat37/Leetcode/tree/master/0343-integer-break) |
@@ -268,6 +271,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0010-regular-expression-matching](https://github.com/Shashwat37/Leetcode/tree/master/0010-regular-expression-matching) |
 | [0050-powx-n](https://github.com/Shashwat37/Leetcode/tree/master/0050-powx-n) |
 | [0224-basic-calculator](https://github.com/Shashwat37/Leetcode/tree/master/0224-basic-calculator) |
+| [0241-different-ways-to-add-parentheses](https://github.com/Shashwat37/Leetcode/tree/master/0241-different-ways-to-add-parentheses) |
 ## Backtracking
 |  |
 | ------- |
@@ -376,4 +380,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0223-rectangle-area](https://github.com/Shashwat37/Leetcode/tree/master/0223-rectangle-area) |
+## Memoization
+|  |
+| ------- |
+| [0241-different-ways-to-add-parentheses](https://github.com/Shashwat37/Leetcode/tree/master/0241-different-ways-to-add-parentheses) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0241-different-ways-to-add-parentheses](https://github.com/Shashwat37/Leetcode/tree/master/0241-different-ways-to-add-parentheses) |
 <!---LeetCode Topics End-->
