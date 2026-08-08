@@ -80,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/Shashwat37/Leetcode/tree/master/0012-integer-to-roman) |
 | [0036-valid-sudoku](https://github.com/Shashwat37/Leetcode/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/Shashwat37/Leetcode/tree/master/0037-sudoku-solver) |
+| [0166-fraction-to-recurring-decimal](https://github.com/Shashwat37/Leetcode/tree/master/0166-fraction-to-recurring-decimal) |
 | [0169-majority-element](https://github.com/Shashwat37/Leetcode/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/Shashwat37/Leetcode/tree/master/0242-valid-anagram) |
 | [0387-first-unique-character-in-a-string](https://github.com/Shashwat37/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
@@ -207,6 +208,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0093-restore-ip-addresses](https://github.com/Shashwat37/Leetcode/tree/master/0093-restore-ip-addresses) |
 | [0097-interleaving-string](https://github.com/Shashwat37/Leetcode/tree/master/0097-interleaving-string) |
 | [0131-palindrome-partitioning](https://github.com/Shashwat37/Leetcode/tree/master/0131-palindrome-partitioning) |
+| [0166-fraction-to-recurring-decimal](https://github.com/Shashwat37/Leetcode/tree/master/0166-fraction-to-recurring-decimal) |
 | [0168-excel-sheet-column-title](https://github.com/Shashwat37/Leetcode/tree/master/0168-excel-sheet-column-title) |
 | [0214-shortest-palindrome](https://github.com/Shashwat37/Leetcode/tree/master/0214-shortest-palindrome) |
 | [0224-basic-calculator](https://github.com/Shashwat37/Leetcode/tree/master/0224-basic-calculator) |
@@ -249,6 +251,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/Shashwat37/Leetcode/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/Shashwat37/Leetcode/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/Shashwat37/Leetcode/tree/master/0069-sqrtx) |
+| [0166-fraction-to-recurring-decimal](https://github.com/Shashwat37/Leetcode/tree/master/0166-fraction-to-recurring-decimal) |
 | [0168-excel-sheet-column-title](https://github.com/Shashwat37/Leetcode/tree/master/0168-excel-sheet-column-title) |
 | [0223-rectangle-area](https://github.com/Shashwat37/Leetcode/tree/master/0223-rectangle-area) |
 | [0224-basic-calculator](https://github.com/Shashwat37/Leetcode/tree/master/0224-basic-calculator) |
