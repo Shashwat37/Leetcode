@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/Shashwat37/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0238-product-of-array-except-self](https://github.com/Shashwat37/Leetcode/tree/master/0238-product-of-array-except-self) |
 | [0283-move-zeroes](https://github.com/Shashwat37/Leetcode/tree/master/0283-move-zeroes) |
+| [0287-find-the-duplicate-number](https://github.com/Shashwat37/Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0410-split-array-largest-sum](https://github.com/Shashwat37/Leetcode/tree/master/0410-split-array-largest-sum) |
 | [0493-reverse-pairs](https://github.com/Shashwat37/Leetcode/tree/master/0493-reverse-pairs) |
 | [0502-ipo](https://github.com/Shashwat37/Leetcode/tree/master/0502-ipo) |
@@ -66,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0148-sort-list](https://github.com/Shashwat37/Leetcode/tree/master/0148-sort-list) |
 | [0202-happy-number](https://github.com/Shashwat37/Leetcode/tree/master/0202-happy-number) |
 | [0283-move-zeroes](https://github.com/Shashwat37/Leetcode/tree/master/0283-move-zeroes) |
+| [0287-find-the-duplicate-number](https://github.com/Shashwat37/Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Shashwat37/Leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Bit Manipulation
 |  |
@@ -75,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/Shashwat37/Leetcode/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/Shashwat37/Leetcode/tree/master/0090-subsets-ii) |
 | [0136-single-number](https://github.com/Shashwat37/Leetcode/tree/master/0136-single-number) |
+| [0287-find-the-duplicate-number](https://github.com/Shashwat37/Leetcode/tree/master/0287-find-the-duplicate-number) |
 ## Hash Table
 |  |
 | ------- |
@@ -155,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0004-median-of-two-sorted-arrays](https://github.com/Shashwat37/Leetcode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0069-sqrtx](https://github.com/Shashwat37/Leetcode/tree/master/0069-sqrtx) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Shashwat37/Leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0287-find-the-duplicate-number](https://github.com/Shashwat37/Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0410-split-array-largest-sum](https://github.com/Shashwat37/Leetcode/tree/master/0410-split-array-largest-sum) |
 | [0493-reverse-pairs](https://github.com/Shashwat37/Leetcode/tree/master/0493-reverse-pairs) |
 | [0875-koko-eating-bananas](https://github.com/Shashwat37/Leetcode/tree/master/0875-koko-eating-bananas) |
@@ -402,4 +406,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0202-happy-number](https://github.com/Shashwat37/Leetcode/tree/master/0202-happy-number) |
+| [0287-find-the-duplicate-number](https://github.com/Shashwat37/Leetcode/tree/master/0287-find-the-duplicate-number) |
+## Pigeonhole Principle
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/Shashwat37/Leetcode/tree/master/0287-find-the-duplicate-number) |
 <!---LeetCode Topics End-->
