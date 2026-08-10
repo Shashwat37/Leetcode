@@ -279,6 +279,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0808-soup-servings](https://github.com/Shashwat37/Leetcode/tree/master/0808-soup-servings) |
 | [0866-prime-palindrome](https://github.com/Shashwat37/Leetcode/tree/master/0866-prime-palindrome) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Shashwat37/Leetcode/tree/master/1248-count-number-of-nice-subarrays) |
+| [1952-three-divisors](https://github.com/Shashwat37/Leetcode/tree/master/1952-three-divisors) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Shashwat37/Leetcode/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Recursion
 |  |
@@ -329,6 +330,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0258-add-digits](https://github.com/Shashwat37/Leetcode/tree/master/0258-add-digits) |
 | [0866-prime-palindrome](https://github.com/Shashwat37/Leetcode/tree/master/0866-prime-palindrome) |
+| [1952-three-divisors](https://github.com/Shashwat37/Leetcode/tree/master/1952-three-divisors) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Shashwat37/Leetcode/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Queue
 |  |
@@ -420,4 +422,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0866-prime-palindrome](https://github.com/Shashwat37/Leetcode/tree/master/0866-prime-palindrome) |
+## Enumeration
+|  |
+| ------- |
+| [1952-three-divisors](https://github.com/Shashwat37/Leetcode/tree/master/1952-three-divisors) |
+## Prime Factorization
+|  |
+| ------- |
+| [1952-three-divisors](https://github.com/Shashwat37/Leetcode/tree/master/1952-three-divisors) |
+## Sieve Theory
+|  |
+| ------- |
+| [1952-three-divisors](https://github.com/Shashwat37/Leetcode/tree/master/1952-three-divisors) |
 <!---LeetCode Topics End-->
