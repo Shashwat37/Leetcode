@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0045-jump-game-ii](https://github.com/Shashwat37/Leetcode/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/Shashwat37/Leetcode/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/Shashwat37/Leetcode/tree/master/0056-merge-intervals) |
+| [0064-minimum-path-sum](https://github.com/Shashwat37/Leetcode/tree/master/0064-minimum-path-sum) |
 | [0066-plus-one](https://github.com/Shashwat37/Leetcode/tree/master/0066-plus-one) |
 | [0075-sort-colors](https://github.com/Shashwat37/Leetcode/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/Shashwat37/Leetcode/tree/master/0078-subsets) |
@@ -145,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0032-longest-valid-parentheses](https://github.com/Shashwat37/Leetcode/tree/master/0032-longest-valid-parentheses) |
 | [0045-jump-game-ii](https://github.com/Shashwat37/Leetcode/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/Shashwat37/Leetcode/tree/master/0055-jump-game) |
+| [0064-minimum-path-sum](https://github.com/Shashwat37/Leetcode/tree/master/0064-minimum-path-sum) |
 | [0072-edit-distance](https://github.com/Shashwat37/Leetcode/tree/master/0072-edit-distance) |
 | [0097-interleaving-string](https://github.com/Shashwat37/Leetcode/tree/master/0097-interleaving-string) |
 | [0118-pascals-triangle](https://github.com/Shashwat37/Leetcode/tree/master/0118-pascals-triangle) |
@@ -325,6 +327,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0036-valid-sudoku](https://github.com/Shashwat37/Leetcode/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/Shashwat37/Leetcode/tree/master/0037-sudoku-solver) |
+| [0064-minimum-path-sum](https://github.com/Shashwat37/Leetcode/tree/master/0064-minimum-path-sum) |
 | [0079-word-search](https://github.com/Shashwat37/Leetcode/tree/master/0079-word-search) |
 | [0200-number-of-islands](https://github.com/Shashwat37/Leetcode/tree/master/0200-number-of-islands) |
 ## Number Theory
