@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/Shashwat37/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Shashwat37/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0219-contains-duplicate-ii](https://github.com/Shashwat37/Leetcode/tree/master/0219-contains-duplicate-ii) |
+| [0220-contains-duplicate-iii](https://github.com/Shashwat37/Leetcode/tree/master/0220-contains-duplicate-iii) |
 | [0238-product-of-array-except-self](https://github.com/Shashwat37/Leetcode/tree/master/0238-product-of-array-except-self) |
 | [0283-move-zeroes](https://github.com/Shashwat37/Leetcode/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/Shashwat37/Leetcode/tree/master/0287-find-the-duplicate-number) |
@@ -120,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0148-sort-list](https://github.com/Shashwat37/Leetcode/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/Shashwat37/Leetcode/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Shashwat37/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
+| [0220-contains-duplicate-iii](https://github.com/Shashwat37/Leetcode/tree/master/0220-contains-duplicate-iii) |
 | [0242-valid-anagram](https://github.com/Shashwat37/Leetcode/tree/master/0242-valid-anagram) |
 | [0451-sort-characters-by-frequency](https://github.com/Shashwat37/Leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [0502-ipo](https://github.com/Shashwat37/Leetcode/tree/master/0502-ipo) |
@@ -201,6 +203,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Ordered Set
 |  |
 | ------- |
+| [0220-contains-duplicate-iii](https://github.com/Shashwat37/Leetcode/tree/master/0220-contains-duplicate-iii) |
 | [0493-reverse-pairs](https://github.com/Shashwat37/Leetcode/tree/master/0493-reverse-pairs) |
 ## Greedy
 |  |
@@ -265,6 +268,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/Shashwat37/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0209-minimum-size-subarray-sum](https://github.com/Shashwat37/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0219-contains-duplicate-ii](https://github.com/Shashwat37/Leetcode/tree/master/0219-contains-duplicate-ii) |
+| [0220-contains-duplicate-iii](https://github.com/Shashwat37/Leetcode/tree/master/0220-contains-duplicate-iii) |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/Shashwat37/Leetcode/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 | [0424-longest-repeating-character-replacement](https://github.com/Shashwat37/Leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Shashwat37/Leetcode/tree/master/1248-count-number-of-nice-subarrays) |
@@ -280,6 +284,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bucket Sort
 |  |
 | ------- |
+| [0220-contains-duplicate-iii](https://github.com/Shashwat37/Leetcode/tree/master/0220-contains-duplicate-iii) |
 | [0451-sort-characters-by-frequency](https://github.com/Shashwat37/Leetcode/tree/master/0451-sort-characters-by-frequency) |
 ## Math
 |  |
