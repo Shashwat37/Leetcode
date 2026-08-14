@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0118-pascals-triangle](https://github.com/Shashwat37/Leetcode/tree/master/0118-pascals-triangle) |
 | [0120-triangle](https://github.com/Shashwat37/Leetcode/tree/master/0120-triangle) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Shashwat37/Leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0130-surrounded-regions](https://github.com/Shashwat37/Leetcode/tree/master/0130-surrounded-regions) |
 | [0134-gas-station](https://github.com/Shashwat37/Leetcode/tree/master/0134-gas-station) |
 | [0136-single-number](https://github.com/Shashwat37/Leetcode/tree/master/0136-single-number) |
 | [0140-word-break-ii](https://github.com/Shashwat37/Leetcode/tree/master/0140-word-break-ii) |
@@ -368,6 +369,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0079-word-search](https://github.com/Shashwat37/Leetcode/tree/master/0079-word-search) |
 | [0112-path-sum](https://github.com/Shashwat37/Leetcode/tree/master/0112-path-sum) |
+| [0130-surrounded-regions](https://github.com/Shashwat37/Leetcode/tree/master/0130-surrounded-regions) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Shashwat37/Leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0200-number-of-islands](https://github.com/Shashwat37/Leetcode/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/Shashwat37/Leetcode/tree/master/0207-course-schedule) |
@@ -378,6 +380,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0037-sudoku-solver](https://github.com/Shashwat37/Leetcode/tree/master/0037-sudoku-solver) |
 | [0064-minimum-path-sum](https://github.com/Shashwat37/Leetcode/tree/master/0064-minimum-path-sum) |
 | [0079-word-search](https://github.com/Shashwat37/Leetcode/tree/master/0079-word-search) |
+| [0130-surrounded-regions](https://github.com/Shashwat37/Leetcode/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/Shashwat37/Leetcode/tree/master/0200-number-of-islands) |
 ## Number Theory
 |  |
@@ -420,6 +423,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0112-path-sum](https://github.com/Shashwat37/Leetcode/tree/master/0112-path-sum) |
+| [0130-surrounded-regions](https://github.com/Shashwat37/Leetcode/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/Shashwat37/Leetcode/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/Shashwat37/Leetcode/tree/master/0207-course-schedule) |
 ## Binary Tree
@@ -450,6 +454,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Union-Find
 |  |
 | ------- |
+| [0130-surrounded-regions](https://github.com/Shashwat37/Leetcode/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/Shashwat37/Leetcode/tree/master/0200-number-of-islands) |
 ## Geometry
 |  |
