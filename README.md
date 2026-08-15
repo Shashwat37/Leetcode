@@ -94,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/Shashwat37/Leetcode/tree/master/0136-single-number) |
 | [0287-find-the-duplicate-number](https://github.com/Shashwat37/Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0397-integer-replacement](https://github.com/Shashwat37/Leetcode/tree/master/0397-integer-replacement) |
+| [0464-can-i-win](https://github.com/Shashwat37/Leetcode/tree/master/0464-can-i-win) |
 ## Hash Table
 |  |
 | ------- |
@@ -186,6 +187,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0397-integer-replacement](https://github.com/Shashwat37/Leetcode/tree/master/0397-integer-replacement) |
 | [0410-split-array-largest-sum](https://github.com/Shashwat37/Leetcode/tree/master/0410-split-array-largest-sum) |
 | [0413-arithmetic-slices](https://github.com/Shashwat37/Leetcode/tree/master/0413-arithmetic-slices) |
+| [0464-can-i-win](https://github.com/Shashwat37/Leetcode/tree/master/0464-can-i-win) |
 | [0678-valid-parenthesis-string](https://github.com/Shashwat37/Leetcode/tree/master/0678-valid-parenthesis-string) |
 | [0808-soup-servings](https://github.com/Shashwat37/Leetcode/tree/master/0808-soup-servings) |
 ## Binary Search
@@ -334,6 +336,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0258-add-digits](https://github.com/Shashwat37/Leetcode/tree/master/0258-add-digits) |
 | [0282-expression-add-operators](https://github.com/Shashwat37/Leetcode/tree/master/0282-expression-add-operators) |
 | [0343-integer-break](https://github.com/Shashwat37/Leetcode/tree/master/0343-integer-break) |
+| [0464-can-i-win](https://github.com/Shashwat37/Leetcode/tree/master/0464-can-i-win) |
 | [0808-soup-servings](https://github.com/Shashwat37/Leetcode/tree/master/0808-soup-servings) |
 | [0866-prime-palindrome](https://github.com/Shashwat37/Leetcode/tree/master/0866-prime-palindrome) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Shashwat37/Leetcode/tree/master/1248-count-number-of-nice-subarrays) |
@@ -472,6 +475,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0140-word-break-ii](https://github.com/Shashwat37/Leetcode/tree/master/0140-word-break-ii) |
 | [0241-different-ways-to-add-parentheses](https://github.com/Shashwat37/Leetcode/tree/master/0241-different-ways-to-add-parentheses) |
 | [0397-integer-replacement](https://github.com/Shashwat37/Leetcode/tree/master/0397-integer-replacement) |
+| [0464-can-i-win](https://github.com/Shashwat37/Leetcode/tree/master/0464-can-i-win) |
 ## Bracket Sequences
 |  |
 | ------- |
@@ -510,4 +514,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0164-maximum-gap](https://github.com/Shashwat37/Leetcode/tree/master/0164-maximum-gap) |
+## Game Theory
+|  |
+| ------- |
+| [0464-can-i-win](https://github.com/Shashwat37/Leetcode/tree/master/0464-can-i-win) |
+## Bitmask
+|  |
+| ------- |
+| [0464-can-i-win](https://github.com/Shashwat37/Leetcode/tree/master/0464-can-i-win) |
 <!---LeetCode Topics End-->
