@@ -183,6 +183,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0131-palindrome-partitioning](https://github.com/Shashwat37/Leetcode/tree/master/0131-palindrome-partitioning) |
 | [0140-word-break-ii](https://github.com/Shashwat37/Leetcode/tree/master/0140-word-break-ii) |
 | [0241-different-ways-to-add-parentheses](https://github.com/Shashwat37/Leetcode/tree/master/0241-different-ways-to-add-parentheses) |
+| [0279-perfect-squares](https://github.com/Shashwat37/Leetcode/tree/master/0279-perfect-squares) |
 | [0343-integer-break](https://github.com/Shashwat37/Leetcode/tree/master/0343-integer-break) |
 | [0397-integer-replacement](https://github.com/Shashwat37/Leetcode/tree/master/0397-integer-replacement) |
 | [0410-split-array-largest-sum](https://github.com/Shashwat37/Leetcode/tree/master/0410-split-array-largest-sum) |
@@ -334,6 +335,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0224-basic-calculator](https://github.com/Shashwat37/Leetcode/tree/master/0224-basic-calculator) |
 | [0241-different-ways-to-add-parentheses](https://github.com/Shashwat37/Leetcode/tree/master/0241-different-ways-to-add-parentheses) |
 | [0258-add-digits](https://github.com/Shashwat37/Leetcode/tree/master/0258-add-digits) |
+| [0279-perfect-squares](https://github.com/Shashwat37/Leetcode/tree/master/0279-perfect-squares) |
 | [0282-expression-add-operators](https://github.com/Shashwat37/Leetcode/tree/master/0282-expression-add-operators) |
 | [0343-integer-break](https://github.com/Shashwat37/Leetcode/tree/master/0343-integer-break) |
 | [0464-can-i-win](https://github.com/Shashwat37/Leetcode/tree/master/0464-can-i-win) |
@@ -435,6 +437,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0130-surrounded-regions](https://github.com/Shashwat37/Leetcode/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/Shashwat37/Leetcode/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/Shashwat37/Leetcode/tree/master/0207-course-schedule) |
+| [0279-perfect-squares](https://github.com/Shashwat37/Leetcode/tree/master/0279-perfect-squares) |
 ## Binary Tree
 |  |
 | ------- |
@@ -522,4 +525,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0464-can-i-win](https://github.com/Shashwat37/Leetcode/tree/master/0464-can-i-win) |
+## Knapsack Problem
+|  |
+| ------- |
+| [0279-perfect-squares](https://github.com/Shashwat37/Leetcode/tree/master/0279-perfect-squares) |
+## Complete Knapsack
+|  |
+| ------- |
+| [0279-perfect-squares](https://github.com/Shashwat37/Leetcode/tree/master/0279-perfect-squares) |
 <!---LeetCode Topics End-->
