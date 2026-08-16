@@ -340,6 +340,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0258-add-digits](https://github.com/Shashwat37/Leetcode/tree/master/0258-add-digits) |
 | [0279-perfect-squares](https://github.com/Shashwat37/Leetcode/tree/master/0279-perfect-squares) |
 | [0282-expression-add-operators](https://github.com/Shashwat37/Leetcode/tree/master/0282-expression-add-operators) |
+| [0326-power-of-three](https://github.com/Shashwat37/Leetcode/tree/master/0326-power-of-three) |
 | [0343-integer-break](https://github.com/Shashwat37/Leetcode/tree/master/0343-integer-break) |
 | [0464-can-i-win](https://github.com/Shashwat37/Leetcode/tree/master/0464-can-i-win) |
 | [0808-soup-servings](https://github.com/Shashwat37/Leetcode/tree/master/0808-soup-servings) |
@@ -356,6 +357,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0050-powx-n](https://github.com/Shashwat37/Leetcode/tree/master/0050-powx-n) |
 | [0224-basic-calculator](https://github.com/Shashwat37/Leetcode/tree/master/0224-basic-calculator) |
 | [0241-different-ways-to-add-parentheses](https://github.com/Shashwat37/Leetcode/tree/master/0241-different-ways-to-add-parentheses) |
+| [0326-power-of-three](https://github.com/Shashwat37/Leetcode/tree/master/0326-power-of-three) |
 ## Backtracking
 |  |
 | ------- |
