@@ -340,6 +340,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0258-add-digits](https://github.com/Shashwat37/Leetcode/tree/master/0258-add-digits) |
 | [0279-perfect-squares](https://github.com/Shashwat37/Leetcode/tree/master/0279-perfect-squares) |
 | [0282-expression-add-operators](https://github.com/Shashwat37/Leetcode/tree/master/0282-expression-add-operators) |
+| [0292-nim-game](https://github.com/Shashwat37/Leetcode/tree/master/0292-nim-game) |
 | [0319-bulb-switcher](https://github.com/Shashwat37/Leetcode/tree/master/0319-bulb-switcher) |
 | [0326-power-of-three](https://github.com/Shashwat37/Leetcode/tree/master/0326-power-of-three) |
 | [0343-integer-break](https://github.com/Shashwat37/Leetcode/tree/master/0343-integer-break) |
@@ -528,6 +529,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Game Theory
 |  |
 | ------- |
+| [0292-nim-game](https://github.com/Shashwat37/Leetcode/tree/master/0292-nim-game) |
 | [0464-can-i-win](https://github.com/Shashwat37/Leetcode/tree/master/0464-can-i-win) |
 ## Bitmask
 |  |
@@ -544,5 +546,18 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Brainteaser
 |  |
 | ------- |
+| [0292-nim-game](https://github.com/Shashwat37/Leetcode/tree/master/0292-nim-game) |
 | [0319-bulb-switcher](https://github.com/Shashwat37/Leetcode/tree/master/0319-bulb-switcher) |
+## Minimax
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/Shashwat37/Leetcode/tree/master/0292-nim-game) |
+## Nim Game
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/Shashwat37/Leetcode/tree/master/0292-nim-game) |
+## Impartial Game
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/Shashwat37/Leetcode/tree/master/0292-nim-game) |
 <!---LeetCode Topics End-->
