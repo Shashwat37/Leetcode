@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/Shashwat37/Leetcode/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
 | [0410-split-array-largest-sum](https://github.com/Shashwat37/Leetcode/tree/master/0410-split-array-largest-sum) |
 | [0413-arithmetic-slices](https://github.com/Shashwat37/Leetcode/tree/master/0413-arithmetic-slices) |
+| [0419-battleships-in-a-board](https://github.com/Shashwat37/Leetcode/tree/master/0419-battleships-in-a-board) |
 | [0493-reverse-pairs](https://github.com/Shashwat37/Leetcode/tree/master/0493-reverse-pairs) |
 | [0502-ipo](https://github.com/Shashwat37/Leetcode/tree/master/0502-ipo) |
 | [0621-task-scheduler](https://github.com/Shashwat37/Leetcode/tree/master/0621-task-scheduler) |
@@ -397,6 +398,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0144-binary-tree-preorder-traversal](https://github.com/Shashwat37/Leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0200-number-of-islands](https://github.com/Shashwat37/Leetcode/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/Shashwat37/Leetcode/tree/master/0207-course-schedule) |
+| [0419-battleships-in-a-board](https://github.com/Shashwat37/Leetcode/tree/master/0419-battleships-in-a-board) |
 ## Matrix
 |  |
 | ------- |
@@ -406,6 +408,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0079-word-search](https://github.com/Shashwat37/Leetcode/tree/master/0079-word-search) |
 | [0130-surrounded-regions](https://github.com/Shashwat37/Leetcode/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/Shashwat37/Leetcode/tree/master/0200-number-of-islands) |
+| [0419-battleships-in-a-board](https://github.com/Shashwat37/Leetcode/tree/master/0419-battleships-in-a-board) |
 ## Number Theory
 |  |
 | ------- |
