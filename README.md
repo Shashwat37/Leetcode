@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/Shashwat37/Leetcode/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/Shashwat37/Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/Shashwat37/Leetcode/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
+| [0322-coin-change](https://github.com/Shashwat37/Leetcode/tree/master/0322-coin-change) |
 | [0410-split-array-largest-sum](https://github.com/Shashwat37/Leetcode/tree/master/0410-split-array-largest-sum) |
 | [0413-arithmetic-slices](https://github.com/Shashwat37/Leetcode/tree/master/0413-arithmetic-slices) |
 | [0419-battleships-in-a-board](https://github.com/Shashwat37/Leetcode/tree/master/0419-battleships-in-a-board) |
@@ -193,6 +194,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0241-different-ways-to-add-parentheses](https://github.com/Shashwat37/Leetcode/tree/master/0241-different-ways-to-add-parentheses) |
 | [0279-perfect-squares](https://github.com/Shashwat37/Leetcode/tree/master/0279-perfect-squares) |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/Shashwat37/Leetcode/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
+| [0322-coin-change](https://github.com/Shashwat37/Leetcode/tree/master/0322-coin-change) |
 | [0343-integer-break](https://github.com/Shashwat37/Leetcode/tree/master/0343-integer-break) |
 | [0397-integer-replacement](https://github.com/Shashwat37/Leetcode/tree/master/0397-integer-replacement) |
 | [0410-split-array-largest-sum](https://github.com/Shashwat37/Leetcode/tree/master/0410-split-array-largest-sum) |
@@ -455,6 +457,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/Shashwat37/Leetcode/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/Shashwat37/Leetcode/tree/master/0207-course-schedule) |
 | [0279-perfect-squares](https://github.com/Shashwat37/Leetcode/tree/master/0279-perfect-squares) |
+| [0322-coin-change](https://github.com/Shashwat37/Leetcode/tree/master/0322-coin-change) |
 ## Binary Tree
 |  |
 | ------- |
@@ -547,10 +550,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0279-perfect-squares](https://github.com/Shashwat37/Leetcode/tree/master/0279-perfect-squares) |
+| [0322-coin-change](https://github.com/Shashwat37/Leetcode/tree/master/0322-coin-change) |
 ## Complete Knapsack
 |  |
 | ------- |
 | [0279-perfect-squares](https://github.com/Shashwat37/Leetcode/tree/master/0279-perfect-squares) |
+| [0322-coin-change](https://github.com/Shashwat37/Leetcode/tree/master/0322-coin-change) |
 ## Brainteaser
 |  |
 | ------- |
