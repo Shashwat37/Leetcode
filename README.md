@@ -100,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/Shashwat37/Leetcode/tree/master/0136-single-number) |
 | [0260-single-number-iii](https://github.com/Shashwat37/Leetcode/tree/master/0260-single-number-iii) |
 | [0287-find-the-duplicate-number](https://github.com/Shashwat37/Leetcode/tree/master/0287-find-the-duplicate-number) |
+| [0338-counting-bits](https://github.com/Shashwat37/Leetcode/tree/master/0338-counting-bits) |
 | [0397-integer-replacement](https://github.com/Shashwat37/Leetcode/tree/master/0397-integer-replacement) |
 | [0464-can-i-win](https://github.com/Shashwat37/Leetcode/tree/master/0464-can-i-win) |
 ## Hash Table
@@ -195,6 +196,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0279-perfect-squares](https://github.com/Shashwat37/Leetcode/tree/master/0279-perfect-squares) |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/Shashwat37/Leetcode/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
 | [0322-coin-change](https://github.com/Shashwat37/Leetcode/tree/master/0322-coin-change) |
+| [0338-counting-bits](https://github.com/Shashwat37/Leetcode/tree/master/0338-counting-bits) |
 | [0343-integer-break](https://github.com/Shashwat37/Leetcode/tree/master/0343-integer-break) |
 | [0397-integer-replacement](https://github.com/Shashwat37/Leetcode/tree/master/0397-integer-replacement) |
 | [0410-split-array-largest-sum](https://github.com/Shashwat37/Leetcode/tree/master/0410-split-array-largest-sum) |
