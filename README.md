@@ -130,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1248-count-number-of-nice-subarrays](https://github.com/Shashwat37/Leetcode/tree/master/1248-count-number-of-nice-subarrays) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Shashwat37/Leetcode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/Shashwat37/Leetcode/tree/master/1781-sum-of-beauty-of-all-substrings) |
+| [2266-count-number-of-texts](https://github.com/Shashwat37/Leetcode/tree/master/2266-count-number-of-texts) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Shashwat37/Leetcode/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 ## Sorting
 |  |
@@ -206,6 +207,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0464-can-i-win](https://github.com/Shashwat37/Leetcode/tree/master/0464-can-i-win) |
 | [0678-valid-parenthesis-string](https://github.com/Shashwat37/Leetcode/tree/master/0678-valid-parenthesis-string) |
 | [0808-soup-servings](https://github.com/Shashwat37/Leetcode/tree/master/0808-soup-servings) |
+| [2266-count-number-of-texts](https://github.com/Shashwat37/Leetcode/tree/master/2266-count-number-of-texts) |
 ## Binary Search
 |  |
 | ------- |
@@ -308,6 +310,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Shashwat37/Leetcode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1419-minimum-number-of-frogs-croaking](https://github.com/Shashwat37/Leetcode/tree/master/1419-minimum-number-of-frogs-croaking) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/Shashwat37/Leetcode/tree/master/1781-sum-of-beauty-of-all-substrings) |
+| [2266-count-number-of-texts](https://github.com/Shashwat37/Leetcode/tree/master/2266-count-number-of-texts) |
 ## Sliding Window
 |  |
 | ------- |
@@ -370,6 +373,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1952-three-divisors](https://github.com/Shashwat37/Leetcode/tree/master/1952-three-divisors) |
 | [2101-detonate-the-maximum-bombs](https://github.com/Shashwat37/Leetcode/tree/master/2101-detonate-the-maximum-bombs) |
 | [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/Shashwat37/Leetcode/tree/master/2160-minimum-sum-of-four-digit-number-after-splitting-digits) |
+| [2266-count-number-of-texts](https://github.com/Shashwat37/Leetcode/tree/master/2266-count-number-of-texts) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Shashwat37/Leetcode/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Recursion
 |  |
