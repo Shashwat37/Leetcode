@@ -67,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/Shashwat37/Leetcode/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1539-kth-missing-positive-number](https://github.com/Shashwat37/Leetcode/tree/master/1539-kth-missing-positive-number) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/Shashwat37/Leetcode/tree/master/1752-check-if-array-is-sorted-and-rotated) |
+| [2101-detonate-the-maximum-bombs](https://github.com/Shashwat37/Leetcode/tree/master/2101-detonate-the-maximum-bombs) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Shashwat37/Leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Shashwat37/Leetcode/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 ## Two Pointers
@@ -365,6 +366,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0866-prime-palindrome](https://github.com/Shashwat37/Leetcode/tree/master/0866-prime-palindrome) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Shashwat37/Leetcode/tree/master/1248-count-number-of-nice-subarrays) |
 | [1952-three-divisors](https://github.com/Shashwat37/Leetcode/tree/master/1952-three-divisors) |
+| [2101-detonate-the-maximum-bombs](https://github.com/Shashwat37/Leetcode/tree/master/2101-detonate-the-maximum-bombs) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Shashwat37/Leetcode/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Recursion
 |  |
@@ -410,6 +412,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/Shashwat37/Leetcode/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/Shashwat37/Leetcode/tree/master/0207-course-schedule) |
 | [0419-battleships-in-a-board](https://github.com/Shashwat37/Leetcode/tree/master/0419-battleships-in-a-board) |
+| [2101-detonate-the-maximum-bombs](https://github.com/Shashwat37/Leetcode/tree/master/2101-detonate-the-maximum-bombs) |
 ## Matrix
 |  |
 | ------- |
@@ -469,6 +472,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0207-course-schedule](https://github.com/Shashwat37/Leetcode/tree/master/0207-course-schedule) |
 | [0279-perfect-squares](https://github.com/Shashwat37/Leetcode/tree/master/0279-perfect-squares) |
 | [0322-coin-change](https://github.com/Shashwat37/Leetcode/tree/master/0322-coin-change) |
+| [2101-detonate-the-maximum-bombs](https://github.com/Shashwat37/Leetcode/tree/master/2101-detonate-the-maximum-bombs) |
 ## Binary Tree
 |  |
 | ------- |
@@ -478,6 +482,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/Shashwat37/Leetcode/tree/master/0207-course-schedule) |
+| [2101-detonate-the-maximum-bombs](https://github.com/Shashwat37/Leetcode/tree/master/2101-detonate-the-maximum-bombs) |
 ## Topological Sort
 |  |
 | ------- |
@@ -503,6 +508,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0223-rectangle-area](https://github.com/Shashwat37/Leetcode/tree/master/0223-rectangle-area) |
+| [2101-detonate-the-maximum-bombs](https://github.com/Shashwat37/Leetcode/tree/master/2101-detonate-the-maximum-bombs) |
 ## Memoization
 |  |
 | ------- |
