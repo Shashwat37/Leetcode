@@ -89,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/Shashwat37/Leetcode/tree/master/0202-happy-number) |
 | [0283-move-zeroes](https://github.com/Shashwat37/Leetcode/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/Shashwat37/Leetcode/tree/master/0287-find-the-duplicate-number) |
+| [0345-reverse-vowels-of-a-string](https://github.com/Shashwat37/Leetcode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0658-find-k-closest-elements](https://github.com/Shashwat37/Leetcode/tree/master/0658-find-k-closest-elements) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Shashwat37/Leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Bit Manipulation
@@ -299,6 +300,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0299-bulls-and-cows](https://github.com/Shashwat37/Leetcode/tree/master/0299-bulls-and-cows) |
 | [0306-additive-number](https://github.com/Shashwat37/Leetcode/tree/master/0306-additive-number) |
 | [0316-remove-duplicate-letters](https://github.com/Shashwat37/Leetcode/tree/master/0316-remove-duplicate-letters) |
+| [0345-reverse-vowels-of-a-string](https://github.com/Shashwat37/Leetcode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0383-ransom-note](https://github.com/Shashwat37/Leetcode/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/Shashwat37/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/Shashwat37/Leetcode/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
