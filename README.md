@@ -120,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/Shashwat37/Leetcode/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/Shashwat37/Leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0242-valid-anagram](https://github.com/Shashwat37/Leetcode/tree/master/0242-valid-anagram) |
+| [0290-word-pattern](https://github.com/Shashwat37/Leetcode/tree/master/0290-word-pattern) |
 | [0299-bulls-and-cows](https://github.com/Shashwat37/Leetcode/tree/master/0299-bulls-and-cows) |
 | [0383-ransom-note](https://github.com/Shashwat37/Leetcode/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/Shashwat37/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
@@ -297,6 +298,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0241-different-ways-to-add-parentheses](https://github.com/Shashwat37/Leetcode/tree/master/0241-different-ways-to-add-parentheses) |
 | [0242-valid-anagram](https://github.com/Shashwat37/Leetcode/tree/master/0242-valid-anagram) |
 | [0282-expression-add-operators](https://github.com/Shashwat37/Leetcode/tree/master/0282-expression-add-operators) |
+| [0290-word-pattern](https://github.com/Shashwat37/Leetcode/tree/master/0290-word-pattern) |
 | [0299-bulls-and-cows](https://github.com/Shashwat37/Leetcode/tree/master/0299-bulls-and-cows) |
 | [0306-additive-number](https://github.com/Shashwat37/Leetcode/tree/master/0306-additive-number) |
 | [0316-remove-duplicate-letters](https://github.com/Shashwat37/Leetcode/tree/master/0316-remove-duplicate-letters) |
