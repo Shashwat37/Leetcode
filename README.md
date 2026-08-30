@@ -207,6 +207,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0322-coin-change](https://github.com/Shashwat37/Leetcode/tree/master/0322-coin-change) |
 | [0338-counting-bits](https://github.com/Shashwat37/Leetcode/tree/master/0338-counting-bits) |
 | [0343-integer-break](https://github.com/Shashwat37/Leetcode/tree/master/0343-integer-break) |
+| [0357-count-numbers-with-unique-digits](https://github.com/Shashwat37/Leetcode/tree/master/0357-count-numbers-with-unique-digits) |
 | [0397-integer-replacement](https://github.com/Shashwat37/Leetcode/tree/master/0397-integer-replacement) |
 | [0410-split-array-largest-sum](https://github.com/Shashwat37/Leetcode/tree/master/0410-split-array-largest-sum) |
 | [0413-arithmetic-slices](https://github.com/Shashwat37/Leetcode/tree/master/0413-arithmetic-slices) |
@@ -377,6 +378,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0326-power-of-three](https://github.com/Shashwat37/Leetcode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/Shashwat37/Leetcode/tree/master/0342-power-of-four) |
 | [0343-integer-break](https://github.com/Shashwat37/Leetcode/tree/master/0343-integer-break) |
+| [0357-count-numbers-with-unique-digits](https://github.com/Shashwat37/Leetcode/tree/master/0357-count-numbers-with-unique-digits) |
 | [0367-valid-perfect-square](https://github.com/Shashwat37/Leetcode/tree/master/0367-valid-perfect-square) |
 | [0371-sum-of-two-integers](https://github.com/Shashwat37/Leetcode/tree/master/0371-sum-of-two-integers) |
 | [0400-nth-digit](https://github.com/Shashwat37/Leetcode/tree/master/0400-nth-digit) |
@@ -413,6 +415,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0140-word-break-ii](https://github.com/Shashwat37/Leetcode/tree/master/0140-word-break-ii) |
 | [0282-expression-add-operators](https://github.com/Shashwat37/Leetcode/tree/master/0282-expression-add-operators) |
 | [0306-additive-number](https://github.com/Shashwat37/Leetcode/tree/master/0306-additive-number) |
+| [0357-count-numbers-with-unique-digits](https://github.com/Shashwat37/Leetcode/tree/master/0357-count-numbers-with-unique-digits) |
 ## Stack
 |  |
 | ------- |
