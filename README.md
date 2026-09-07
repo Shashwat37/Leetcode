@@ -458,6 +458,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0079-word-search](https://github.com/Shashwat37/Leetcode/tree/master/0079-word-search) |
+| [0101-symmetric-tree](https://github.com/Shashwat37/Leetcode/tree/master/0101-symmetric-tree) |
 | [0112-path-sum](https://github.com/Shashwat37/Leetcode/tree/master/0112-path-sum) |
 | [0130-surrounded-regions](https://github.com/Shashwat37/Leetcode/tree/master/0130-surrounded-regions) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Shashwat37/Leetcode/tree/master/0144-binary-tree-preorder-traversal) |
@@ -515,11 +516,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Tree
 |  |
 | ------- |
+| [0101-symmetric-tree](https://github.com/Shashwat37/Leetcode/tree/master/0101-symmetric-tree) |
 | [0112-path-sum](https://github.com/Shashwat37/Leetcode/tree/master/0112-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Shashwat37/Leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 ## Breadth-First Search
 |  |
 | ------- |
+| [0101-symmetric-tree](https://github.com/Shashwat37/Leetcode/tree/master/0101-symmetric-tree) |
 | [0112-path-sum](https://github.com/Shashwat37/Leetcode/tree/master/0112-path-sum) |
 | [0130-surrounded-regions](https://github.com/Shashwat37/Leetcode/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/Shashwat37/Leetcode/tree/master/0200-number-of-islands) |
@@ -531,6 +534,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Tree
 |  |
 | ------- |
+| [0101-symmetric-tree](https://github.com/Shashwat37/Leetcode/tree/master/0101-symmetric-tree) |
 | [0112-path-sum](https://github.com/Shashwat37/Leetcode/tree/master/0112-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Shashwat37/Leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 ## Graph Theory
