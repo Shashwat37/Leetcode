@@ -10,23 +10,23 @@
  */
 class Solution {
     public ListNode reverseList(ListNode head) {
-        Stack<ListNode> stack = new Stack<>();
-        ListNode temp = head;
-        while (temp != null) {
+        Stack<ListNode> stack=new Stack<>();
+        ListNode temp=head;
+        while(temp!=null)
+        {
             stack.push(temp);
-            temp = temp.next;
+            temp=temp.next;
         }
-        if (stack.isEmpty()) {
-            return null;
+        if(stack.isEmpty())
+        return null;
+        head=stack.pop();
+        temp=head;
+        while(!stack.isEmpty())
+        {
+            temp.next=stack.pop();
+            temp=temp.next;
         }
-        ListNode newHead = stack.pop();
-        temp = newHead;
-
-        while (!stack.isEmpty()) {
-            temp.next = stack.pop();
-            temp = temp.next;
-        }
-        temp.next = null;
-        return newHead;
+        temp.next=null;
+        return head;
     }
 }
