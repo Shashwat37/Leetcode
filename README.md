@@ -425,6 +425,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0400-nth-digit](https://github.com/Shashwat37/Leetcode/tree/master/0400-nth-digit) |
 | [0412-fizz-buzz](https://github.com/Shashwat37/Leetcode/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/Shashwat37/Leetcode/tree/master/0415-add-strings) |
+| [0445-add-two-numbers-ii](https://github.com/Shashwat37/Leetcode/tree/master/0445-add-two-numbers-ii) |
 | [0464-can-i-win](https://github.com/Shashwat37/Leetcode/tree/master/0464-can-i-win) |
 | [0504-base-7](https://github.com/Shashwat37/Leetcode/tree/master/0504-base-7) |
 | [0523-continuous-subarray-sum](https://github.com/Shashwat37/Leetcode/tree/master/0523-continuous-subarray-sum) |
@@ -478,6 +479,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0234-palindrome-linked-list](https://github.com/Shashwat37/Leetcode/tree/master/0234-palindrome-linked-list) |
 | [0316-remove-duplicate-letters](https://github.com/Shashwat37/Leetcode/tree/master/0316-remove-duplicate-letters) |
 | [0402-remove-k-digits](https://github.com/Shashwat37/Leetcode/tree/master/0402-remove-k-digits) |
+| [0445-add-two-numbers-ii](https://github.com/Shashwat37/Leetcode/tree/master/0445-add-two-numbers-ii) |
 | [0678-valid-parenthesis-string](https://github.com/Shashwat37/Leetcode/tree/master/0678-valid-parenthesis-string) |
 ## Depth-First Search
 |  |
@@ -535,6 +537,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0206-reverse-linked-list](https://github.com/Shashwat37/Leetcode/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/Shashwat37/Leetcode/tree/master/0234-palindrome-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/Shashwat37/Leetcode/tree/master/0328-odd-even-linked-list) |
+| [0445-add-two-numbers-ii](https://github.com/Shashwat37/Leetcode/tree/master/0445-add-two-numbers-ii) |
 | [0876-middle-of-the-linked-list](https://github.com/Shashwat37/Leetcode/tree/master/0876-middle-of-the-linked-list) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Shashwat37/Leetcode/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 ## String Matching
