@@ -190,6 +190,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0148-sort-list](https://github.com/Shashwat37/Leetcode/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/Shashwat37/Leetcode/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Shashwat37/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
+| [0372-super-pow](https://github.com/Shashwat37/Leetcode/tree/master/0372-super-pow) |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/Shashwat37/Leetcode/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 | [0493-reverse-pairs](https://github.com/Shashwat37/Leetcode/tree/master/0493-reverse-pairs) |
 ## Counting
@@ -425,6 +426,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0357-count-numbers-with-unique-digits](https://github.com/Shashwat37/Leetcode/tree/master/0357-count-numbers-with-unique-digits) |
 | [0367-valid-perfect-square](https://github.com/Shashwat37/Leetcode/tree/master/0367-valid-perfect-square) |
 | [0371-sum-of-two-integers](https://github.com/Shashwat37/Leetcode/tree/master/0371-sum-of-two-integers) |
+| [0372-super-pow](https://github.com/Shashwat37/Leetcode/tree/master/0372-super-pow) |
 | [0400-nth-digit](https://github.com/Shashwat37/Leetcode/tree/master/0400-nth-digit) |
 | [0412-fizz-buzz](https://github.com/Shashwat37/Leetcode/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/Shashwat37/Leetcode/tree/master/0415-add-strings) |
@@ -711,4 +713,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0374-guess-number-higher-or-lower](https://github.com/Shashwat37/Leetcode/tree/master/0374-guess-number-higher-or-lower) |
+## Euler's Totient Function
+|  |
+| ------- |
+| [0372-super-pow](https://github.com/Shashwat37/Leetcode/tree/master/0372-super-pow) |
+## Euler's Theorem
+|  |
+| ------- |
+| [0372-super-pow](https://github.com/Shashwat37/Leetcode/tree/master/0372-super-pow) |
 <!---LeetCode Topics End-->
