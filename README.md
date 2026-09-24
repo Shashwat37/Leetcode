@@ -342,6 +342,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0227-basic-calculator-ii](https://github.com/Shashwat37/Leetcode/tree/master/0227-basic-calculator-ii) |
 | [0241-different-ways-to-add-parentheses](https://github.com/Shashwat37/Leetcode/tree/master/0241-different-ways-to-add-parentheses) |
 | [0242-valid-anagram](https://github.com/Shashwat37/Leetcode/tree/master/0242-valid-anagram) |
+| [0257-binary-tree-paths](https://github.com/Shashwat37/Leetcode/tree/master/0257-binary-tree-paths) |
 | [0282-expression-add-operators](https://github.com/Shashwat37/Leetcode/tree/master/0282-expression-add-operators) |
 | [0290-word-pattern](https://github.com/Shashwat37/Leetcode/tree/master/0290-word-pattern) |
 | [0299-bulls-and-cows](https://github.com/Shashwat37/Leetcode/tree/master/0299-bulls-and-cows) |
@@ -473,6 +474,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0093-restore-ip-addresses](https://github.com/Shashwat37/Leetcode/tree/master/0093-restore-ip-addresses) |
 | [0131-palindrome-partitioning](https://github.com/Shashwat37/Leetcode/tree/master/0131-palindrome-partitioning) |
 | [0140-word-break-ii](https://github.com/Shashwat37/Leetcode/tree/master/0140-word-break-ii) |
+| [0257-binary-tree-paths](https://github.com/Shashwat37/Leetcode/tree/master/0257-binary-tree-paths) |
 | [0282-expression-add-operators](https://github.com/Shashwat37/Leetcode/tree/master/0282-expression-add-operators) |
 | [0306-additive-number](https://github.com/Shashwat37/Leetcode/tree/master/0306-additive-number) |
 | [0357-count-numbers-with-unique-digits](https://github.com/Shashwat37/Leetcode/tree/master/0357-count-numbers-with-unique-digits) |
@@ -502,6 +504,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/Shashwat37/Leetcode/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/Shashwat37/Leetcode/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/Shashwat37/Leetcode/tree/master/0210-course-schedule-ii) |
+| [0257-binary-tree-paths](https://github.com/Shashwat37/Leetcode/tree/master/0257-binary-tree-paths) |
 | [0419-battleships-in-a-board](https://github.com/Shashwat37/Leetcode/tree/master/0419-battleships-in-a-board) |
 | [2101-detonate-the-maximum-bombs](https://github.com/Shashwat37/Leetcode/tree/master/2101-detonate-the-maximum-bombs) |
 ## Matrix
@@ -571,6 +574,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0101-symmetric-tree](https://github.com/Shashwat37/Leetcode/tree/master/0101-symmetric-tree) |
 | [0112-path-sum](https://github.com/Shashwat37/Leetcode/tree/master/0112-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Shashwat37/Leetcode/tree/master/0144-binary-tree-preorder-traversal) |
+| [0257-binary-tree-paths](https://github.com/Shashwat37/Leetcode/tree/master/0257-binary-tree-paths) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -589,6 +593,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0101-symmetric-tree](https://github.com/Shashwat37/Leetcode/tree/master/0101-symmetric-tree) |
 | [0112-path-sum](https://github.com/Shashwat37/Leetcode/tree/master/0112-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Shashwat37/Leetcode/tree/master/0144-binary-tree-preorder-traversal) |
+| [0257-binary-tree-paths](https://github.com/Shashwat37/Leetcode/tree/master/0257-binary-tree-paths) |
 ## Graph Theory
 |  |
 | ------- |
