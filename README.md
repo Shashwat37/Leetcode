@@ -241,6 +241,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0343-integer-break](https://github.com/Shashwat37/Leetcode/tree/master/0343-integer-break) |
 | [0357-count-numbers-with-unique-digits](https://github.com/Shashwat37/Leetcode/tree/master/0357-count-numbers-with-unique-digits) |
 | [0368-largest-divisible-subset](https://github.com/Shashwat37/Leetcode/tree/master/0368-largest-divisible-subset) |
+| [0375-guess-number-higher-or-lower-ii](https://github.com/Shashwat37/Leetcode/tree/master/0375-guess-number-higher-or-lower-ii) |
 | [0397-integer-replacement](https://github.com/Shashwat37/Leetcode/tree/master/0397-integer-replacement) |
 | [0410-split-array-largest-sum](https://github.com/Shashwat37/Leetcode/tree/master/0410-split-array-largest-sum) |
 | [0413-arithmetic-slices](https://github.com/Shashwat37/Leetcode/tree/master/0413-arithmetic-slices) |
@@ -436,6 +437,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0368-largest-divisible-subset](https://github.com/Shashwat37/Leetcode/tree/master/0368-largest-divisible-subset) |
 | [0371-sum-of-two-integers](https://github.com/Shashwat37/Leetcode/tree/master/0371-sum-of-two-integers) |
 | [0372-super-pow](https://github.com/Shashwat37/Leetcode/tree/master/0372-super-pow) |
+| [0375-guess-number-higher-or-lower-ii](https://github.com/Shashwat37/Leetcode/tree/master/0375-guess-number-higher-or-lower-ii) |
 | [0400-nth-digit](https://github.com/Shashwat37/Leetcode/tree/master/0400-nth-digit) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/Shashwat37/Leetcode/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0412-fizz-buzz](https://github.com/Shashwat37/Leetcode/tree/master/0412-fizz-buzz) |
@@ -683,6 +685,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0292-nim-game](https://github.com/Shashwat37/Leetcode/tree/master/0292-nim-game) |
+| [0375-guess-number-higher-or-lower-ii](https://github.com/Shashwat37/Leetcode/tree/master/0375-guess-number-higher-or-lower-ii) |
 | [0464-can-i-win](https://github.com/Shashwat37/Leetcode/tree/master/0464-can-i-win) |
 ## Bitmask
 |  |
@@ -707,6 +710,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0292-nim-game](https://github.com/Shashwat37/Leetcode/tree/master/0292-nim-game) |
+| [0375-guess-number-higher-or-lower-ii](https://github.com/Shashwat37/Leetcode/tree/master/0375-guess-number-higher-or-lower-ii) |
 ## Nim Game
 |  |
 | ------- |
