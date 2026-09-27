@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0413-arithmetic-slices](https://github.com/Shashwat37/Leetcode/tree/master/0413-arithmetic-slices) |
 | [0419-battleships-in-a-board](https://github.com/Shashwat37/Leetcode/tree/master/0419-battleships-in-a-board) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Shashwat37/Leetcode/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
+| [0474-ones-and-zeroes](https://github.com/Shashwat37/Leetcode/tree/master/0474-ones-and-zeroes) |
 | [0493-reverse-pairs](https://github.com/Shashwat37/Leetcode/tree/master/0493-reverse-pairs) |
 | [0502-ipo](https://github.com/Shashwat37/Leetcode/tree/master/0502-ipo) |
 | [0523-continuous-subarray-sum](https://github.com/Shashwat37/Leetcode/tree/master/0523-continuous-subarray-sum) |
@@ -252,6 +253,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0410-split-array-largest-sum](https://github.com/Shashwat37/Leetcode/tree/master/0410-split-array-largest-sum) |
 | [0413-arithmetic-slices](https://github.com/Shashwat37/Leetcode/tree/master/0413-arithmetic-slices) |
 | [0464-can-i-win](https://github.com/Shashwat37/Leetcode/tree/master/0464-can-i-win) |
+| [0474-ones-and-zeroes](https://github.com/Shashwat37/Leetcode/tree/master/0474-ones-and-zeroes) |
 | [0553-optimal-division](https://github.com/Shashwat37/Leetcode/tree/master/0553-optimal-division) |
 | [0583-delete-operation-for-two-strings](https://github.com/Shashwat37/Leetcode/tree/master/0583-delete-operation-for-two-strings) |
 | [0678-valid-parenthesis-string](https://github.com/Shashwat37/Leetcode/tree/master/0678-valid-parenthesis-string) |
@@ -371,6 +373,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0424-longest-repeating-character-replacement](https://github.com/Shashwat37/Leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [0433-minimum-genetic-mutation](https://github.com/Shashwat37/Leetcode/tree/master/0433-minimum-genetic-mutation) |
 | [0451-sort-characters-by-frequency](https://github.com/Shashwat37/Leetcode/tree/master/0451-sort-characters-by-frequency) |
+| [0474-ones-and-zeroes](https://github.com/Shashwat37/Leetcode/tree/master/0474-ones-and-zeroes) |
 | [0504-base-7](https://github.com/Shashwat37/Leetcode/tree/master/0504-base-7) |
 | [0583-delete-operation-for-two-strings](https://github.com/Shashwat37/Leetcode/tree/master/0583-delete-operation-for-two-strings) |
 | [0649-dota2-senate](https://github.com/Shashwat37/Leetcode/tree/master/0649-dota2-senate) |
@@ -709,6 +712,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0279-perfect-squares](https://github.com/Shashwat37/Leetcode/tree/master/0279-perfect-squares) |
 | [0322-coin-change](https://github.com/Shashwat37/Leetcode/tree/master/0322-coin-change) |
+| [0474-ones-and-zeroes](https://github.com/Shashwat37/Leetcode/tree/master/0474-ones-and-zeroes) |
 ## Complete Knapsack
 |  |
 | ------- |
@@ -756,4 +760,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0433-minimum-genetic-mutation](https://github.com/Shashwat37/Leetcode/tree/master/0433-minimum-genetic-mutation) |
+## 0-1 Knapsack
+|  |
+| ------- |
+| [0474-ones-and-zeroes](https://github.com/Shashwat37/Leetcode/tree/master/0474-ones-and-zeroes) |
 <!---LeetCode Topics End-->
