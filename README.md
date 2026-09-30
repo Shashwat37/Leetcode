@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/Shashwat37/Leetcode/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/Shashwat37/Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0289-game-of-life](https://github.com/Shashwat37/Leetcode/tree/master/0289-game-of-life) |
+| [0307-range-sum-query-mutable](https://github.com/Shashwat37/Leetcode/tree/master/0307-range-sum-query-mutable) |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/Shashwat37/Leetcode/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
 | [0313-super-ugly-number](https://github.com/Shashwat37/Leetcode/tree/master/0313-super-ugly-number) |
 | [0322-coin-change](https://github.com/Shashwat37/Leetcode/tree/master/0322-coin-change) |
@@ -205,6 +206,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0148-sort-list](https://github.com/Shashwat37/Leetcode/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/Shashwat37/Leetcode/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Shashwat37/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
+| [0307-range-sum-query-mutable](https://github.com/Shashwat37/Leetcode/tree/master/0307-range-sum-query-mutable) |
 | [0372-super-pow](https://github.com/Shashwat37/Leetcode/tree/master/0372-super-pow) |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/Shashwat37/Leetcode/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 | [0493-reverse-pairs](https://github.com/Shashwat37/Leetcode/tree/master/0493-reverse-pairs) |
@@ -289,10 +291,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Indexed Tree
 |  |
 | ------- |
+| [0307-range-sum-query-mutable](https://github.com/Shashwat37/Leetcode/tree/master/0307-range-sum-query-mutable) |
 | [0493-reverse-pairs](https://github.com/Shashwat37/Leetcode/tree/master/0493-reverse-pairs) |
 ## Segment Tree
 |  |
 | ------- |
+| [0307-range-sum-query-mutable](https://github.com/Shashwat37/Leetcode/tree/master/0307-range-sum-query-mutable) |
 | [0493-reverse-pairs](https://github.com/Shashwat37/Leetcode/tree/master/0493-reverse-pairs) |
 ## Merge Sort
 |  |
@@ -778,4 +782,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0474-ones-and-zeroes](https://github.com/Shashwat37/Leetcode/tree/master/0474-ones-and-zeroes) |
+## Design
+|  |
+| ------- |
+| [0307-range-sum-query-mutable](https://github.com/Shashwat37/Leetcode/tree/master/0307-range-sum-query-mutable) |
+## Sqrt Decomposition
+|  |
+| ------- |
+| [0307-range-sum-query-mutable](https://github.com/Shashwat37/Leetcode/tree/master/0307-range-sum-query-mutable) |
 <!---LeetCode Topics End-->
