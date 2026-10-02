@@ -135,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0405-convert-a-number-to-hexadecimal](https://github.com/Shashwat37/Leetcode/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0464-can-i-win](https://github.com/Shashwat37/Leetcode/tree/master/0464-can-i-win) |
 | [0672-bulb-switcher-ii](https://github.com/Shashwat37/Leetcode/tree/master/0672-bulb-switcher-ii) |
+| [0784-letter-case-permutation](https://github.com/Shashwat37/Leetcode/tree/master/0784-letter-case-permutation) |
 ## Hash Table
 |  |
 | ------- |
@@ -399,6 +400,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0680-valid-palindrome-ii](https://github.com/Shashwat37/Leetcode/tree/master/0680-valid-palindrome-ii) |
 | [0720-longest-word-in-dictionary](https://github.com/Shashwat37/Leetcode/tree/master/0720-longest-word-in-dictionary) |
 | [0767-reorganize-string](https://github.com/Shashwat37/Leetcode/tree/master/0767-reorganize-string) |
+| [0784-letter-case-permutation](https://github.com/Shashwat37/Leetcode/tree/master/0784-letter-case-permutation) |
 | [1156-swap-for-longest-repeated-character-substring](https://github.com/Shashwat37/Leetcode/tree/master/1156-swap-for-longest-repeated-character-substring) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Shashwat37/Leetcode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1419-minimum-number-of-frogs-croaking](https://github.com/Shashwat37/Leetcode/tree/master/1419-minimum-number-of-frogs-croaking) |
@@ -519,6 +521,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0282-expression-add-operators](https://github.com/Shashwat37/Leetcode/tree/master/0282-expression-add-operators) |
 | [0306-additive-number](https://github.com/Shashwat37/Leetcode/tree/master/0306-additive-number) |
 | [0357-count-numbers-with-unique-digits](https://github.com/Shashwat37/Leetcode/tree/master/0357-count-numbers-with-unique-digits) |
+| [0784-letter-case-permutation](https://github.com/Shashwat37/Leetcode/tree/master/0784-letter-case-permutation) |
 ## Stack
 |  |
 | ------- |
