@@ -72,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0605-can-place-flowers](https://github.com/Shashwat37/Leetcode/tree/master/0605-can-place-flowers) |
 | [0621-task-scheduler](https://github.com/Shashwat37/Leetcode/tree/master/0621-task-scheduler) |
 | [0658-find-k-closest-elements](https://github.com/Shashwat37/Leetcode/tree/master/0658-find-k-closest-elements) |
+| [0720-longest-word-in-dictionary](https://github.com/Shashwat37/Leetcode/tree/master/0720-longest-word-in-dictionary) |
 | [0860-lemonade-change](https://github.com/Shashwat37/Leetcode/tree/master/0860-lemonade-change) |
 | [0875-koko-eating-bananas](https://github.com/Shashwat37/Leetcode/tree/master/0875-koko-eating-bananas) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/Shashwat37/Leetcode/tree/master/1011-capacity-to-ship-packages-within-d-days) |
@@ -165,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0451-sort-characters-by-frequency](https://github.com/Shashwat37/Leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [0523-continuous-subarray-sum](https://github.com/Shashwat37/Leetcode/tree/master/0523-continuous-subarray-sum) |
 | [0621-task-scheduler](https://github.com/Shashwat37/Leetcode/tree/master/0621-task-scheduler) |
+| [0720-longest-word-in-dictionary](https://github.com/Shashwat37/Leetcode/tree/master/0720-longest-word-in-dictionary) |
 | [0767-reorganize-string](https://github.com/Shashwat37/Leetcode/tree/master/0767-reorganize-string) |
 | [1156-swap-for-longest-repeated-character-substring](https://github.com/Shashwat37/Leetcode/tree/master/1156-swap-for-longest-repeated-character-substring) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Shashwat37/Leetcode/tree/master/1248-count-number-of-nice-subarrays) |
@@ -196,6 +198,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0561-array-partition](https://github.com/Shashwat37/Leetcode/tree/master/0561-array-partition) |
 | [0621-task-scheduler](https://github.com/Shashwat37/Leetcode/tree/master/0621-task-scheduler) |
 | [0658-find-k-closest-elements](https://github.com/Shashwat37/Leetcode/tree/master/0658-find-k-closest-elements) |
+| [0720-longest-word-in-dictionary](https://github.com/Shashwat37/Leetcode/tree/master/0720-longest-word-in-dictionary) |
 | [0767-reorganize-string](https://github.com/Shashwat37/Leetcode/tree/master/0767-reorganize-string) |
 | [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/Shashwat37/Leetcode/tree/master/2160-minimum-sum-of-four-digit-number-after-splitting-digits) |
 ## Divide and Conquer
@@ -394,6 +397,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0657-robot-return-to-origin](https://github.com/Shashwat37/Leetcode/tree/master/0657-robot-return-to-origin) |
 | [0678-valid-parenthesis-string](https://github.com/Shashwat37/Leetcode/tree/master/0678-valid-parenthesis-string) |
 | [0680-valid-palindrome-ii](https://github.com/Shashwat37/Leetcode/tree/master/0680-valid-palindrome-ii) |
+| [0720-longest-word-in-dictionary](https://github.com/Shashwat37/Leetcode/tree/master/0720-longest-word-in-dictionary) |
 | [0767-reorganize-string](https://github.com/Shashwat37/Leetcode/tree/master/0767-reorganize-string) |
 | [1156-swap-for-longest-repeated-character-substring](https://github.com/Shashwat37/Leetcode/tree/master/1156-swap-for-longest-repeated-character-substring) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Shashwat37/Leetcode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
@@ -713,6 +717,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0140-word-break-ii](https://github.com/Shashwat37/Leetcode/tree/master/0140-word-break-ii) |
+| [0720-longest-word-in-dictionary](https://github.com/Shashwat37/Leetcode/tree/master/0720-longest-word-in-dictionary) |
 ## Radix Sort
 |  |
 | ------- |
