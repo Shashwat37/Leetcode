@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/Shashwat37/Leetcode/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
 | [0313-super-ugly-number](https://github.com/Shashwat37/Leetcode/tree/master/0313-super-ugly-number) |
 | [0322-coin-change](https://github.com/Shashwat37/Leetcode/tree/master/0322-coin-change) |
+| [0335-self-crossing](https://github.com/Shashwat37/Leetcode/tree/master/0335-self-crossing) |
 | [0349-intersection-of-two-arrays](https://github.com/Shashwat37/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0368-largest-divisible-subset](https://github.com/Shashwat37/Leetcode/tree/master/0368-largest-divisible-subset) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Shashwat37/Leetcode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
@@ -470,6 +471,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0313-super-ugly-number](https://github.com/Shashwat37/Leetcode/tree/master/0313-super-ugly-number) |
 | [0319-bulb-switcher](https://github.com/Shashwat37/Leetcode/tree/master/0319-bulb-switcher) |
 | [0326-power-of-three](https://github.com/Shashwat37/Leetcode/tree/master/0326-power-of-three) |
+| [0335-self-crossing](https://github.com/Shashwat37/Leetcode/tree/master/0335-self-crossing) |
 | [0342-power-of-four](https://github.com/Shashwat37/Leetcode/tree/master/0342-power-of-four) |
 | [0343-integer-break](https://github.com/Shashwat37/Leetcode/tree/master/0343-integer-break) |
 | [0357-count-numbers-with-unique-digits](https://github.com/Shashwat37/Leetcode/tree/master/0357-count-numbers-with-unique-digits) |
@@ -682,6 +684,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0223-rectangle-area](https://github.com/Shashwat37/Leetcode/tree/master/0223-rectangle-area) |
+| [0335-self-crossing](https://github.com/Shashwat37/Leetcode/tree/master/0335-self-crossing) |
 | [2101-detonate-the-maximum-bombs](https://github.com/Shashwat37/Leetcode/tree/master/2101-detonate-the-maximum-bombs) |
 ## Memoization
 |  |
