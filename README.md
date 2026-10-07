@@ -119,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0658-find-k-closest-elements](https://github.com/Shashwat37/Leetcode/tree/master/0658-find-k-closest-elements) |
 | [0680-valid-palindrome-ii](https://github.com/Shashwat37/Leetcode/tree/master/0680-valid-palindrome-ii) |
 | [0876-middle-of-the-linked-list](https://github.com/Shashwat37/Leetcode/tree/master/0876-middle-of-the-linked-list) |
+| [1332-remove-palindromic-subsequences](https://github.com/Shashwat37/Leetcode/tree/master/1332-remove-palindromic-subsequences) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Shashwat37/Leetcode/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Shashwat37/Leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Bit Manipulation
@@ -409,6 +410,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0767-reorganize-string](https://github.com/Shashwat37/Leetcode/tree/master/0767-reorganize-string) |
 | [0784-letter-case-permutation](https://github.com/Shashwat37/Leetcode/tree/master/0784-letter-case-permutation) |
 | [1156-swap-for-longest-repeated-character-substring](https://github.com/Shashwat37/Leetcode/tree/master/1156-swap-for-longest-repeated-character-substring) |
+| [1332-remove-palindromic-subsequences](https://github.com/Shashwat37/Leetcode/tree/master/1332-remove-palindromic-subsequences) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Shashwat37/Leetcode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1419-minimum-number-of-frogs-croaking](https://github.com/Shashwat37/Leetcode/tree/master/1419-minimum-number-of-frogs-croaking) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/Shashwat37/Leetcode/tree/master/1781-sum-of-beauty-of-all-substrings) |
