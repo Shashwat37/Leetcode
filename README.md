@@ -77,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0621-task-scheduler](https://github.com/Shashwat37/Leetcode/tree/master/0621-task-scheduler) |
 | [0658-find-k-closest-elements](https://github.com/Shashwat37/Leetcode/tree/master/0658-find-k-closest-elements) |
 | [0720-longest-word-in-dictionary](https://github.com/Shashwat37/Leetcode/tree/master/0720-longest-word-in-dictionary) |
+| [0746-min-cost-climbing-stairs](https://github.com/Shashwat37/Leetcode/tree/master/0746-min-cost-climbing-stairs) |
 | [0860-lemonade-change](https://github.com/Shashwat37/Leetcode/tree/master/0860-lemonade-change) |
 | [0875-koko-eating-bananas](https://github.com/Shashwat37/Leetcode/tree/master/0875-koko-eating-bananas) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/Shashwat37/Leetcode/tree/master/1011-capacity-to-ship-packages-within-d-days) |
@@ -279,6 +280,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0553-optimal-division](https://github.com/Shashwat37/Leetcode/tree/master/0553-optimal-division) |
 | [0583-delete-operation-for-two-strings](https://github.com/Shashwat37/Leetcode/tree/master/0583-delete-operation-for-two-strings) |
 | [0678-valid-parenthesis-string](https://github.com/Shashwat37/Leetcode/tree/master/0678-valid-parenthesis-string) |
+| [0746-min-cost-climbing-stairs](https://github.com/Shashwat37/Leetcode/tree/master/0746-min-cost-climbing-stairs) |
 | [0808-soup-servings](https://github.com/Shashwat37/Leetcode/tree/master/0808-soup-servings) |
 | [2266-count-number-of-texts](https://github.com/Shashwat37/Leetcode/tree/master/2266-count-number-of-texts) |
 ## Binary Search
