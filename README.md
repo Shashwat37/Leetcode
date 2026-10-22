@@ -267,6 +267,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/Shashwat37/Leetcode/tree/master/0055-jump-game) |
 | [0064-minimum-path-sum](https://github.com/Shashwat37/Leetcode/tree/master/0064-minimum-path-sum) |
 | [0072-edit-distance](https://github.com/Shashwat37/Leetcode/tree/master/0072-edit-distance) |
+| [0096-unique-binary-search-trees](https://github.com/Shashwat37/Leetcode/tree/master/0096-unique-binary-search-trees) |
 | [0097-interleaving-string](https://github.com/Shashwat37/Leetcode/tree/master/0097-interleaving-string) |
 | [0118-pascals-triangle](https://github.com/Shashwat37/Leetcode/tree/master/0118-pascals-triangle) |
 | [0120-triangle](https://github.com/Shashwat37/Leetcode/tree/master/0120-triangle) |
@@ -482,6 +483,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/Shashwat37/Leetcode/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/Shashwat37/Leetcode/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/Shashwat37/Leetcode/tree/master/0069-sqrtx) |
+| [0096-unique-binary-search-trees](https://github.com/Shashwat37/Leetcode/tree/master/0096-unique-binary-search-trees) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Shashwat37/Leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0166-fraction-to-recurring-decimal](https://github.com/Shashwat37/Leetcode/tree/master/0166-fraction-to-recurring-decimal) |
 | [0168-excel-sheet-column-title](https://github.com/Shashwat37/Leetcode/tree/master/0168-excel-sheet-column-title) |
@@ -666,6 +668,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Shashwat37/Leetcode/tree/master/0094-binary-tree-inorder-traversal) |
+| [0096-unique-binary-search-trees](https://github.com/Shashwat37/Leetcode/tree/master/0096-unique-binary-search-trees) |
 | [0101-symmetric-tree](https://github.com/Shashwat37/Leetcode/tree/master/0101-symmetric-tree) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Shashwat37/Leetcode/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0112-path-sum](https://github.com/Shashwat37/Leetcode/tree/master/0112-path-sum) |
@@ -689,6 +692,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Shashwat37/Leetcode/tree/master/0094-binary-tree-inorder-traversal) |
+| [0096-unique-binary-search-trees](https://github.com/Shashwat37/Leetcode/tree/master/0096-unique-binary-search-trees) |
 | [0101-symmetric-tree](https://github.com/Shashwat37/Leetcode/tree/master/0101-symmetric-tree) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Shashwat37/Leetcode/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0112-path-sum](https://github.com/Shashwat37/Leetcode/tree/master/0112-path-sum) |
@@ -857,4 +861,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0300-longest-increasing-subsequence](https://github.com/Shashwat37/Leetcode/tree/master/0300-longest-increasing-subsequence) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0096-unique-binary-search-trees](https://github.com/Shashwat37/Leetcode/tree/master/0096-unique-binary-search-trees) |
 <!---LeetCode Topics End-->
