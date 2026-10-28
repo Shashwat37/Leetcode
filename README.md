@@ -81,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0658-find-k-closest-elements](https://github.com/Shashwat37/Leetcode/tree/master/0658-find-k-closest-elements) |
 | [0720-longest-word-in-dictionary](https://github.com/Shashwat37/Leetcode/tree/master/0720-longest-word-in-dictionary) |
 | [0746-min-cost-climbing-stairs](https://github.com/Shashwat37/Leetcode/tree/master/0746-min-cost-climbing-stairs) |
+| [0804-unique-morse-code-words](https://github.com/Shashwat37/Leetcode/tree/master/0804-unique-morse-code-words) |
 | [0860-lemonade-change](https://github.com/Shashwat37/Leetcode/tree/master/0860-lemonade-change) |
 | [0875-koko-eating-bananas](https://github.com/Shashwat37/Leetcode/tree/master/0875-koko-eating-bananas) |
 | [0922-sort-array-by-parity-ii](https://github.com/Shashwat37/Leetcode/tree/master/0922-sort-array-by-parity-ii) |
@@ -190,6 +191,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0621-task-scheduler](https://github.com/Shashwat37/Leetcode/tree/master/0621-task-scheduler) |
 | [0720-longest-word-in-dictionary](https://github.com/Shashwat37/Leetcode/tree/master/0720-longest-word-in-dictionary) |
 | [0767-reorganize-string](https://github.com/Shashwat37/Leetcode/tree/master/0767-reorganize-string) |
+| [0804-unique-morse-code-words](https://github.com/Shashwat37/Leetcode/tree/master/0804-unique-morse-code-words) |
 | [1156-swap-for-longest-repeated-character-substring](https://github.com/Shashwat37/Leetcode/tree/master/1156-swap-for-longest-repeated-character-substring) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Shashwat37/Leetcode/tree/master/1248-count-number-of-nice-subarrays) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Shashwat37/Leetcode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
@@ -438,6 +440,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0720-longest-word-in-dictionary](https://github.com/Shashwat37/Leetcode/tree/master/0720-longest-word-in-dictionary) |
 | [0767-reorganize-string](https://github.com/Shashwat37/Leetcode/tree/master/0767-reorganize-string) |
 | [0784-letter-case-permutation](https://github.com/Shashwat37/Leetcode/tree/master/0784-letter-case-permutation) |
+| [0804-unique-morse-code-words](https://github.com/Shashwat37/Leetcode/tree/master/0804-unique-morse-code-words) |
 | [1156-swap-for-longest-repeated-character-substring](https://github.com/Shashwat37/Leetcode/tree/master/1156-swap-for-longest-repeated-character-substring) |
 | [1328-break-a-palindrome](https://github.com/Shashwat37/Leetcode/tree/master/1328-break-a-palindrome) |
 | [1332-remove-palindromic-subsequences](https://github.com/Shashwat37/Leetcode/tree/master/1332-remove-palindromic-subsequences) |
